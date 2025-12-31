@@ -42,7 +42,7 @@ The objective is to help businesses **understand churn drivers**, **identify hig
 ## 📊 Power BI Dashboard
 
 ### 🔹 Churn Summary Dashboard
-![Churn Summary Dashboard](./powerbi/dashboard_screenshots/Summary.png)
+<img src="./powerbi/dashboard_screenshots/Summary.png" width="800"/>
 
 **Key KPIs:**
 - Total Customers  
@@ -58,7 +58,7 @@ The objective is to help businesses **understand churn drivers**, **identify hig
 ---
 
 ### 🔹 Churn Prediction Dashboard
-![Churn Prediction Dashboard](./powerbi/dashboard_screenshots/Churn_Prediction.png)
+<img src="./powerbi/dashboard_screenshots/Churn_Prediction.png" width="800"/>
 
 **Purpose:**
 - Visualize customers **predicted to churn**
